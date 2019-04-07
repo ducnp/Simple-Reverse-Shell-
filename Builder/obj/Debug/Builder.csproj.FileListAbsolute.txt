@@ -1,0 +1,6 @@
+C:\Users\fnafm\source\repos\Rev3Rs3\Builder\bin\Debug\Builder.exe
+C:\Users\fnafm\source\repos\Rev3Rs3\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\fnafm\source\repos\Rev3Rs3\Builder\obj\Debug\Builder.Properties.Resources.resources
+C:\Users\fnafm\source\repos\Rev3Rs3\Builder\obj\Debug\Builder.csproj.GenerateResource.cache
+C:\Users\fnafm\source\repos\Rev3Rs3\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\fnafm\source\repos\Rev3Rs3\Builder\obj\Debug\Builder.exe

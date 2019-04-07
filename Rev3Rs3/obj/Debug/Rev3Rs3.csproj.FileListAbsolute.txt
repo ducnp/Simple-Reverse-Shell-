@@ -1,0 +1,4 @@
+C:\Users\fnafm\source\repos\Rev3Rs3\Rev3Rs3\bin\Debug\Rev3Rs3.exe
+C:\Users\fnafm\source\repos\Rev3Rs3\Rev3Rs3\obj\Debug\Rev3Rs3.csprojAssemblyReference.cache
+C:\Users\fnafm\source\repos\Rev3Rs3\Rev3Rs3\obj\Debug\Rev3Rs3.csproj.CoreCompileInputs.cache
+C:\Users\fnafm\source\repos\Rev3Rs3\Rev3Rs3\obj\Debug\Rev3Rs3.exe

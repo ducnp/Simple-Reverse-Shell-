@@ -1,0 +1,33 @@
+﻿<Mappings><Entry OldName="Builder.Program.rnd" NewName="A.&#x1B;.&#x1B;" />
+<Entry OldName="Builder.Properties.Resources.resourceMan" NewName="A.&#x11;.&#x1B;" />
+<Entry OldName="Builder.Properties.Resources.resourceCulture" NewName="A.&#x11;.&#x1B;" />
+<Entry OldName="Builder.Program..ctor()" NewName="A.&#x1B;..ctor()" />
+<Entry OldName="Builder.Program..cctor()" NewName="A.&#x1B;..cctor()" />
+<Entry OldName="Builder.Program.Main(String[] args)" NewName="A.&#x1B;.&#x1B;(String[] )" />
+<Entry OldName="Builder.Program.Build(String ip, String port, String delay, Int32 max_len)" NewName="A.&#x1B;.&#x1B;(String , String , String , Int32 )" />
+<Entry OldName="Builder.Program.GetObfuscationChars(Int32 len)" NewName="A.&#x1B;.&#x1B;(Int32 )" />
+<Entry OldName="Builder.Properties.Resources..ctor()" NewName="A.&#x11;..ctor()" />
+<Entry OldName="Builder.Properties.Resources.get_ResourceManager()" NewName="A.&#x11;.get_ResourceManager()" />
+<Entry OldName="Builder.Properties.Resources.get_Culture()" NewName="A.&#x11;.get_Culture()" />
+<Entry OldName="Builder.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.&#x11;.set_Culture(CultureInfo value)" />
+<Entry OldName="Builder.Program" NewName="A.&#x1B;" />
+<Entry OldName="Builder.Properties.Resources" NewName="A.&#x11;" />
+<Assembly Name="Builder"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Builder.Program" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="Main" Variables="args;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663301" Name="Build" Variables="ip;port;delay;max_len;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;" ParamCnt="4" />
+<Method Token="100663302" Name="GetObfuscationChars" Variables="len;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Field Token="67108865" Name="rnd" />
+<Type Token="33554436" Name="Builder.Properties.Resources" />
+<Method Token="100663304" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663305" Name="get_ResourceManager" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663306" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663307" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108866" Name="resourceMan" />
+<Field Token="67108867" Name="resourceCulture" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663303" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

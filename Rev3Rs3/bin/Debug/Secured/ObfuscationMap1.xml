@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AgileDotNet Version="6.4.0.31" Time="10/24/2500 11:12:52 AM">
+  <Module N="Rev3Rs3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <Type N="&lt;Module&gt;" />
+    <Type N="Rev3Rs3.Program" ON="ohM=.oRM=">
+      <Method N="Void Main(String[] args)" ON="pxM=" />
+      <Method N="Void CreateShell()" ON="qBM=" />
+      <Method N="Void CmdOutputDataHandler(Object sendingProcess, System.Diagnostics.DataReceivedEventArgs outLine)" ON="qRM=" />
+      <Method N="Void .ctor()" />
+      <Method N="Void .cctor()" />
+      <Field N="ip" ON="oxM=" />
+      <Field N="port" ON="pBM=" />
+      <Field N="delay" ON="pRM=" />
+      <Field N="streamWriter" ON="phM=" />
+    </Type>
+    <Type N="SecureTeam.Attributes.ObfuscatedByAgileDotNetAttribute" ON="qxM=.qhM=">
+      <Method N="Void .ctor()" />
+    </Type>
+  </Module>
+</AgileDotNet>
